@@ -5,4 +5,4 @@ and tiles with several previous weather forecast queries.
 As a result, the user receives information about the current temperature, pressure, wind speed, perceived temperature, cloud cover, humidity and visibility range. 
 All the requested cities are recorded in the database. From there, the results of previous queries are loaded. 
 The application is developed using the Django framework. I used SQLite3 as a database.
-![image](https://user-images.githubusercontent.com/91566054/182411884-6af9874f-2e7c-413a-aa42-372da5378748.png)
+![image](https://user-images.githubusercontent.com/91566054/185226974-525a140f-dc86-4baf-a909-e4469dfe722a.png)
